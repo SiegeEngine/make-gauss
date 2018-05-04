@@ -2,5 +2,9 @@
 name = "make-gauss"
 version = "0.1.0"
 authors = ["Mike Dilger <mike@optcomp.nz>"]
+description = "Sample a gaussian distribution"
+repository = "https://github.com/SiegeEngine/make-gauss"
+readme = "README.md"
+license = "MIT"
 
 [dependencies]
